@@ -1,1 +1,1 @@
-# MSC_Nastran_Solving_Error93
+Sol. Load/Force applied was negative sign used and used the same negative sign in dat file, to solve- change the sign to positive in the bdf file.
